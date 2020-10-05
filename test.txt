@@ -1,2 +1,3 @@
 mergefile-branch`:wq
-这是master分支上的内容!
+<<<<<<< HEAD
+这是master分支上的内容!,这是merge分支上添加的内容!
